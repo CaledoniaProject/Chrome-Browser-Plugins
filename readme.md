@@ -11,3 +11,6 @@ Miscellaneous chromium plugin,
 
 * RemoveHiddenLayers
    Kill hidden transparent layers, fuck the ads or jacking, this public edition doesn't provide heuristic algorithm.
+
+* ThunderKiller
+   Bypass bandwith limit of lixian.vip.xunlei.com
