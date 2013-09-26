@@ -14,3 +14,6 @@ Miscellaneous chromium plugin,
 
 * ThunderKiller
    Bypass bandwith limit of lixian.vip.xunlei.com
+
+* Google Search
+   Perform google search with deprecated ajax apis
