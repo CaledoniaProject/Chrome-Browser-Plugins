@@ -1,19 +1,19 @@
-Miscellaneous chromium plugin,
+### Miscellaneous chromium plugin,
 
 * ToggleCache:
-   see what this page looks like in Google web cache, shortcut key: ALT + C
+  See what this page looks like in Google web cache, shortcut key: ALT + C
 
 * onlinedown.net-bypass-capcha:
-   automatically bypass capcha of onlinedown.net, fuck it.
+  Automatically bypass capcha of onlinedown.net, fuck it.
 
 * Add-To-Thunder:
-   Add the link under cursor to lixian.vip.xunlei.com, use it by right click on the link, ed2k://, thunder://, http://, etc.
+  A context menu is added once the plugin get installed, allowing users to add tasks directly to Xunlei cloud.
 
 * RemoveHiddenLayers
-   Kill hidden transparent layers, fuck the ads or jacking, this public edition doesn't provide heuristic algorithm.
+  Automatically strip hidden layers (e.g yyets.com), fuck all the Ads
 
 * ThunderKiller
-   Bypass bandwith limit of lixian.vip.xunlei.com
+  Xunlei cloud bandwidth/payment bypass
 
 * Google Search
-   Perform google search with deprecated ajax apis
+  Perform google search with deprecated ajax apis (Bypass *FW restrictions)
