@@ -18,5 +18,5 @@
 * Google Search:
   Perform google search with deprecated ajax apis (Bypass Firewall restrictions)
 
-* RMdown Patch:
+* RMdown/Xunfs Patch:
   Block popup ads by removing onclick event handlers
